@@ -17,8 +17,8 @@ Feature Selection: The dataset is prepared with experience, test_score, and inte
 Results..The trained model can predict the salary based on input values for experience, test score, and interview score.
 
 # Dependencies
-Python 3.x
-pandas
-scikit-learn
-word2number
-Jupyter Notebook
+Python 3.x, 
+pandas, 
+scikit-learn, 
+word2number, 
+Jupyter Notebook 
