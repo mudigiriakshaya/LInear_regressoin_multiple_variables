@@ -1,4 +1,4 @@
-Salary Prediction using Linear Regression
+# Salary Prediction using Linear Regression
 
 Overview
 This project implements a Salary Prediction model using Linear Regression. It takes an individual's experience, test score, and interview score as input features and predicts their salary. The dataset contains missing values and categorical data, which are preprocessed before applying the regression model.
